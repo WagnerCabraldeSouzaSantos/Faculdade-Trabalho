@@ -145,7 +145,6 @@ public class Main {
                         BigDecimal consultRgSoc;
                         int i = 0;
                         int achou = 0;
-                        int j = 0;
                         System.out.println("Digite o RG do Socio:");
                         
                         consultRgSoc = s.nextBigDecimal();

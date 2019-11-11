@@ -184,7 +184,7 @@ public class Main {
                                         }
                                             if(teste.size() >0 ){
                                                 if(CRDC==1){
-                                                    iij=0;
+                                                    CRDC=0;
                                                    System.out.println(copy.getCodigo() + " " + copy.getTitulo());
                                                 }
                                         }else{

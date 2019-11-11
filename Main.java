@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args){
-
         Scanner s = new Scanner(System.in);
         Scanner s2 = new Scanner(System.in);
         int close = 0;
